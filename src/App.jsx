@@ -3,7 +3,7 @@ import './App.css';
 import MainPages from './Pages/MainPages';
 import Skill from './Pages/skill.jsx';
 import Profile from './Pages/Profile .jsx';
-import Footer from './Pages/footer.jsx';
+import Footer from './Pages/Footer.jsx';
 import LoadingPage from './Pages/LoadingPage.jsx'; // Import the new LoadingPage component
 
 function App() {
