@@ -4,7 +4,7 @@ import { FaMedium } from "react-icons/fa6";
 const Medium = "https://medium.com/@nethinduhansaka";
 const Linkln = "http://www.linkedin.com/in/nethinduhansaka-a752072b4";
 const GitHub = "https://github.com/nethinduhansaka-dev";
-const BgImage = "./src/assets/bg.png"
+const BgImage = "/assets/bg.png"
 
 const Section = ({ title, children }) => (
   <div className="mb-6">

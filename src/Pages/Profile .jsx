@@ -3,7 +3,7 @@ const Linkln = "http://www.linkedin.com/in/nethinduhansaka-a752072b4";
 const GitHub = "https://github.com/nethinduhansaka-dev";
 const Discord = "";
 const X = "https://x.com/nethinduhansaka";
-const ProfileImage = "./src/assets/Profile-img.jpg";
+const ProfileImage = "/assets/Profile-img.jpg";
 import BlobCursor from '../Components/BlobCurso';
 
 import Magnet from '../Components/Magnet';

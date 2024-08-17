@@ -1,5 +1,5 @@
 import React from 'react';
-const BgImage = "./src/assets/bg.png"
+const BgImage = "/assets/bg.png"
 
 export default function Skill() {
   return (
