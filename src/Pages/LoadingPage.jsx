@@ -47,12 +47,7 @@ const LoadingPage = ({ onLoadingComplete }) => {
             </motion.span>
           ))}
         </motion.div>
-        <motion.div
-          initial={{ scaleX: 0 }}
-          animate={{ scaleX: 1 }}
-          transition={{ duration: 1.5, delay: 1 }}
-          className="h-1 bg-black mt-4 mx-auto w-3/4 sm:w-2/3 md:w-1/2"
-        />
+        
       </div>
       
       <div className="lds-ellipsis scale-75 sm:scale-100">

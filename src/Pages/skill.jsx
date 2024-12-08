@@ -20,7 +20,7 @@ export default function Skill() {
             <div>
               <h2 className="text-2xl font-semibold mb-4">Web Development</h2>
               <ul className="list-disc list-inside space-y-2">
-                <li>HTML5, CSS3 [Tailwind, Bootstrap], JavaScript</li>
+                <li>HTML5, CSS [Tailwind, Bootstrap], JavaScript</li>
                 <li>React.js, Next.js</li>
                 <li>Node.js, Express.js</li>
                 <li>REST APIs, GraphQL</li>

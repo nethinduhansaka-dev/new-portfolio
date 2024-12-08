@@ -32,8 +32,8 @@ const Profile = () => {
               }}
             ></div> 
 
-            <h1 className="text-3xl font-bold pt-8 lg:pt-0  relative w-[max-content] font-mono  before:absolute before:inset-0 before:animate-typewriter before:bg-white after:absolute after:inset-0 after:w-[0.125em] after:animate-caret after:bg-black">
-              Nethindu Hansaka
+            <h1 className="text-3xl flex font-bold pt-8 lg:pt-0  relative w-[max-content] font-mono  before:absolute before:inset-0 before:animate-typewriter before:bg-white after:absolute after:inset-0 after:w-[0.125em] after:animate-caret after:bg-black">
+              Nethindu Hansaka! <img src="assets/robot.png" alt="" className="w-7 h-7" />
             </h1>
             <div className="mx-auto lg:mx-0 w-4/5 pt-3 border-b-2 border-green-500 opacity-25"></div>
             <p className="pt-4 text-base font-bold flex items-center justify-center lg:justify-start">

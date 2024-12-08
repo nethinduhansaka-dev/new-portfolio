@@ -55,6 +55,7 @@ export default function MainPages() {
 
             <Section title="Experience">
               <p>Part-time Web Developer at Initezz Technologies - 2024</p>
+              <a href="https://initezz.com/" className='text-blue-500 hover:underline'>Initezz Technologies</a>
             </Section>
 
             <Section title="Extracurricular">
